@@ -14,4 +14,3 @@ df = pd.read_csv('heart.csv')
 #Basic Exploratory Data Analysis
 df.info()
 
-
